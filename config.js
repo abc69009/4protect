@@ -1,7 +1,5 @@
 module.exports = {
     app: {
-        token : MTEyODAxMTA1NTEzMDQ5NzEwNQ.GiM1oR.zocMa441Q_ATTlmbQp42S6bDGdsbGTJiWwlL3Y,
-        NODE_VERSION : 16.20.0,
         px: '$', // Le prefix exemple +help *help ta capter le prefix avant la commande...
         owners: '1115313256345632839', // Ici tu te met owner (Que toi pas tes meilleurs collègue...)
         funny: '1115313256345632839',  // Ici tu te met owner (Que toi pas tes meilleurs collègue...)
